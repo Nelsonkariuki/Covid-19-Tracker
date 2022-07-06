@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#define main class
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'covid19.settings')
     try:
